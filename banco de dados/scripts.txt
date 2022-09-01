@@ -1,0 +1,9 @@
+grant all privileges on cpiot.* to 'admuser'@'localhost';
+
+flush privileges;
+
+create table clima(
+ id int auto_increment primary key,
+temperatura decimal(4,2),
+umidade decimal(4,2)
+) engine=innodb;
