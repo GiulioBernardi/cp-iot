@@ -21,8 +21,7 @@ Utilizamos a arquitetura definida pelo professor Arnaldo construir toda esse pro
   <img src="https://arnaldojr.github.io/IoT/checkpoint4/diagramablocos.png" />
 </p>
 
-## Vídeo
-
+## Vídeos
 
 Aplicativo mobile que controla os componentes por MQTT: https://youtube.com/shorts/M5TchCKH38I?feature=share
 
