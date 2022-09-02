@@ -1,4 +1,4 @@
-# Dillinger
+# Checkpoint 4
 ## _Internet Of Things_
 
 Esse projeto foi desenvolvido por mim, Giulio Bernardi e pelo meu colega Kaike Santana
