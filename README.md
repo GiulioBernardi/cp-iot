@@ -70,7 +70,7 @@ Todos os nós utilizados no node-red da rasp estão nesse link
 
 #### 5 - Crie o banco de dados na Raspberry
 
-[Tutorial para instalar o MYsql/MariaDB](https://www.youtube.com/watch?v=crPoSYFcZDk&t=3s)
+[Tutorial para instalar o MySQL/MariaDB](https://www.youtube.com/watch?v=crPoSYFcZDk&t=3s)
 
 Ao instalar, criar um usuário e uma base de dados, rode o seguinte comando SQL
 
@@ -83,7 +83,7 @@ create table clima(
 ```
 
 #### 6 - Node-red local ou em núvem
-Fora da RaspBerry, importe [esses nós](ling) para o node-red, seja esse local ou em alguma núvem, nós usamos o node-red da IBM.
+Fora da RaspBerry, importe [esses nós](https://github.com/GiulioBernardi/cp-iot/blob/master/json%20node-red%20ibm/iot-cloud.json) para o node-red, seja esse local ou em alguma núvem, nós usamos o node-red da IBM.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54187661/188224327-58715eb4-e89e-4ca1-b84e-ce6883da5a33.jpeg" />
 </p>
