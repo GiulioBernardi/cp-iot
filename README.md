@@ -84,6 +84,9 @@ create table clima(
 
 #### 6 - Node-red local ou em núvem
 Fora da RaspBerry, importe [esses nós](ling) para o node-red, seja esse local ou em alguma núvem, nós usamos o node-red da IBM.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54187661/188224327-58715eb4-e89e-4ca1-b84e-ce6883da5a33.jpeg" />
+</p>
 
 Você deve estar apto a rodar o projeto se seguir todos esses passos acima.
 Caso haja algum erro em algum passo, abra uma issue nesse repo para que eu melhore esse tutorial.
