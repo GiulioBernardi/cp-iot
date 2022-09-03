@@ -66,7 +66,14 @@ node-red-node-twitter
 ```
 Todos os nós utilizados no node-red da rasp estão nesse link
 
-#### 5 - Crie o banco de dados na Raspberry
+#### 5 - Configurar node-red na Raspberry
+Os nós utilizados no node-red na rasp estão disponíveis [aqui](https://github.com/GiulioBernardi/cp-iot/blob/master/json%20node-red%20raspberry/flows%20(10).json)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54187661/188248749-6ddf79ca-54a2-495c-b451-0fc98289bae1.png" />
+</p>
+
+#### 6 - Crie o banco de dados na Raspberry
 
 [Tutorial para instalar o MySQL/MariaDB](https://www.youtube.com/watch?v=crPoSYFcZDk&t=3s)
 
@@ -80,7 +87,7 @@ create table clima(
 ) engine=innodb;
 ```
 
-#### 6 - Node-red local ou em núvem
+#### 7 - Node-red local ou em núvem
 Fora da RaspBerry, importe [esses nós](https://github.com/GiulioBernardi/cp-iot/blob/master/json%20node-red%20ibm/iot-cloud.json) para o node-red, seja esse local ou em alguma núvem, nós usamos o node-red da IBM.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54187661/188224327-58715eb4-e89e-4ca1-b84e-ce6883da5a33.jpeg" />
