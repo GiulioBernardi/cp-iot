@@ -1,6 +1,6 @@
 # Checkpoint 4 _Internet Of Things_
 
-Esse projeto foi desenvolvido por mim, Giulio Bernardi e pelo meu colega Kaike Santana
+Esse projeto foi desenvolvido por mim mesmo e pelo meu colega [Kaike Santana](https://www.linkedin.com/in/kaike-santana/).
 
 ## Features
 
