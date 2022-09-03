@@ -23,6 +23,7 @@ Utilizamos a arquitetura definida pelo professor Arnaldo construir toda esse pro
 ## Vídeos
 
 Aplicativo mobile que controla os componentes por MQTT: https://youtube.com/shorts/M5TchCKH38I?feature=share
+Explicando como o projeto funciona/foi feito: https://youtu.be/emy82uhnI54
 
 
 ## Rodando o projeto
