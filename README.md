@@ -45,6 +45,7 @@ Pegue o código aqui
 Conecte a raspberry no wifi e faça o boot. [Tutorial para esse passo](https://arnaldojr.github.io/IoT/aulas/lab7/)
 
 #### 4 - Instalar o node-red
+Conectado na Raspberry, rode o comando
 
 ```
 bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
